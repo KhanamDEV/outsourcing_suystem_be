@@ -1,0 +1,5 @@
+{
+    "Admin": true,
+    "Worker": true,
+    "User": true
+}
